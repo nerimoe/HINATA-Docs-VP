@@ -4,10 +4,10 @@ HINATA is a card reader that can be used not only with arcade games, but also wi
 HINATA provides many original features, such as Kanade DX connectivity and high-speed card reading, and works plug-and-play.  
 The HINATA ecosystem is continuously expanding.
 
-::: warning ⚠️ Slow, unstable, or failed reading with some cards on HINATA Lite?
-Since HINATA Lite uses an off-the-shelf RF module, if you experience slow, unstable, or failed reading with some cards, please try:
-1. **Do not place directly against the reader**: Some cards read best when **raised a few centimeters higher**, or cushioned with a non-metallic spacer (optimal distance is recommended to be tested and determined via [HINATA Go](go/index.md)).
-2. **Apply copper foil sticker**: You can apply a copper foil sticker (included for units shipped after July 20, 2025) on the back where the red light glows. The sticker size is recommended to be tested and determined via [HINATA Go](go/index.md).
+::: warning ⚠️ HINATA Lite users: update your reader and HINATA IO
+HINATA Lite previously required a copper foil sticker when reading some compatible cards. The new scanning process resolves this issue in software, so the sticker is no longer needed after updating.
+
+[Update the reader to the latest firmware](/en/update/) and install the latest HINATA IO from the [Download Center](/en/downloads). HINATA Lite units shipped on or after August 15, 2026 will no longer include a copper foil sticker because it is no longer necessary.
 :::
 
 ## Usage
