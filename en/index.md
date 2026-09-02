@@ -32,9 +32,9 @@ features:
   - title: Three-vendor Game Support & Fully Automatic Switching
     details: |
       Supports mainstream arcade games from SEGA, KONAMI, and BANDAI NAMCO<br>Automatically switches by game type and protocol without manual configuration
-  - title: GUI Control Panel & Firmware Update
+  - title: Device Management & Firmware Update
     details: |
-      Web GUI control center for visual light and CardIO settings<br>Supports extended features such as card reading/writing and PN532 passthrough mode<br>Firmware is updated from time to time for new features and compatibility improvements
+      Manage devices and CardIO settings visually via HINATA Go and HINATA Client<br>Supports card management, card writing, PN532 passthrough mode, and more<br>Firmware is updated from time to time for new features and compatibility improvements
   - title: Support Service
     details: |
       Replacement-only service within one year for non-human damage<br>QQ group and private-message support are available for centralized issue handling

@@ -32,7 +32,7 @@ HINATA Lite 过去读取部分兼容卡片时曾需要使用铜箔贴纸。新�
 
 白卡需要写入卡号后方可在 SEGA 游戏中使用。如果你已经拥有 `Aime` 卡、`Bandai Namco Passport` 卡、`BANA PASSPORT` 卡或 `Amusement IC`（四社通）卡片，并且不打算使用赠送的白卡，可以直接跳过该步骤。
 
-写入方式请参考：[HINATA 控制中心 - 卡片读写](/hcc/index.md#卡片读写)。
+写入方式请参考：[HINATA Go - 写入卡片](/go/features/write-card)。你可以在 Android 手机上使用自带 NFC 写入，或将 HINATA 读卡器连接到电脑/手机后在 HINATA Go 中直接写入白卡。
 
 ## 使用方式
 

@@ -77,7 +77,8 @@ export const en = defineConfig({
               items: [
                 { text: 'Read Card Information', link: '/en/go/features/read-card-info' },
                 { text: 'Connect to Arcade Games as a Card Reader', link: '/en/go/features/game-connection' },
-                { text: 'Card Management', link: '/en/go/features/cards' }
+                { text: 'Card Management', link: '/en/go/features/cards' },
+                { text: 'Write to Card', link: '/en/go/features/write-card' }
               ]
             },
           ]

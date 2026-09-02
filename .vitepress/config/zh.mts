@@ -77,7 +77,8 @@ export const zh = defineConfig({
               items: [
                 { text: '读取卡片信息', link: '/go/features/read-card-info' },
                 { text: '连接游戏作为读卡器', link: '/go/features/game-connection' },
-                { text: '卡片管理', link: '/go/features/cards' }
+                { text: '卡片管理', link: '/go/features/cards' },
+                { text: '写入卡片', link: '/go/features/write-card' }
               ]
             }
           ]

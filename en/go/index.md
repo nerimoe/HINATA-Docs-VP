@@ -16,6 +16,7 @@ HINATA Go is a multi-platform NFC card tool that supports card information viewi
 * **Card Information Viewer**: Scan cards via the built-in NFC or a connected HINATA Card Reader to check balances and transaction histories for transit cards (Japanese transit cards, China T-Union), or retrieve Access Codes and card data for various arcade/amusement cards.
 * **Card Reader Mode**: Configure and select a game instance to automatically send swiped card numbers to target games, supporting SEGA games (AimeIO), Konami games (SpiceAPI), and more.
 * **Card Management**: Organize your cards using folders, keep track of swipe history, and import or export card data.
+* **Card Writing**: Write Aime / Banapass Access Codes to MIFARE Classic 1K cards with rewritable or permanently read-only modes.
 * **Hardware Management**: Connect to a physical HINATA card reader to [configure settings and perform OTA firmware updates](/en/configuration).
 
 ## OpenSource
@@ -50,8 +51,6 @@ HINATA Go is a multi-platform NFC card tool that supports card information viewi
 
 ![hinata-go-ui](assets/ui.jpg)
 
-As shown in the figure, after installing and opening the application, the UI interface should look like this.
-
 ## Features
 
 <Links
@@ -73,16 +72,24 @@ As shown in the figure, after installing and opening the application, the UI int
 <Links
   :items="[
     {
-      name: 'Configure & Update HINATA Card Reader',
-      link: '/en/configuration',
+      name: 'Card Management',
+      link: 'features/cards',
     }
   ]"
 />
 <Links
   :items="[
     {
-      name: 'Card Management',
-      link: 'features/cards',
+      name: 'Write to Card',
+      link: 'features/write-card',
+    }
+  ]"
+/>
+<Links
+  :items="[
+    {
+      name: 'Configure & Update HINATA Card Reader',
+      link: '/en/configuration',
     }
   ]"
 />

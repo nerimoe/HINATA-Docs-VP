@@ -34,7 +34,7 @@ features:
       支持 SEGA、KONAMI、BANDAI NAMCO 三家主流街机游戏<br>根据游戏类型与协议自动切换，无需手动配置
   - title: 设备管理 & 固件更新
     details: |
-      Web GUI 控制中心，可视化调整灯光与 CardIO 设置<br>支持卡片读写、PN532 直通模式等扩展功能<br>固件不定期更新，以支持新功能与兼容性改进
+      通过 HINATA Go 与 HINATA Client 可视化管理设备与 CardIO 设置<br>支持卡片管理与写入、PN532 直通模式等扩展功能<br>固件不定期更新，以支持新功能与兼容性改进
   - title: 售后服务
     details: |
       一年内非人为损坏只换不修<br>提供 QQ 群与私聊支持，问题集中处理

@@ -32,7 +32,7 @@ HINATA Lite previously required a copper foil sticker when reading some compatib
 
 The blank card needs to have an Access Code written to it before it can be used in SEGA games. If you already have an `Aime` card, `Bandai Namco Passport` card, `BANA PASSPORT` card, or `Amusement IC` card, and do not plan to use the provided blank card, you can skip this step.
 
-For instructions on writing, please refer to: [HINATA Control Center - Card Reading and Writing](/en/hcc/index.md#card-reading-and-writing).
+For instructions on writing, please refer to: [HINATA Go - Write to Card](/en/go/features/write-card). You can write cards using built-in NFC on an Android device or by connecting your HINATA reader to a PC/mobile device via HINATA Go.
 
 ## Usage Methods
 
